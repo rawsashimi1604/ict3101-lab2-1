@@ -7,6 +7,6 @@ string workingDirectory = Directory.GetCurrentDirectory();
 Console.WriteLine($"Current working directory: {workingDirectory}");
 
 Calculator calculator = new Calculator();
-double result = calculator.GenMagicNum(1);
+double result = calculator.GenMagicNum(1, new FileReader());
 
 Console.WriteLine(result);

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VisxW/kGJjpN+Cp+r2acGligTwj4LED0uYvggb0Ktpeq4m89C8o0HdOQjQNn7lJa/dSnAuFd6fteWuL7llpJ2g==",
+  "dgSpecHash": "1mMvO3W6B6+qLmkTxkqnUkafykQsJo+fkmsPBstOLKeckd3wuBTDuQNNVK7YVb8wOcI1rGCfk5G7ORQqAD8jdQ==",
   "success": true,
   "projectFilePath": "/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2_Specflow/ICT3101_Lab2_Specflow.csproj",
   "expectedPackageFiles": [
     "/Users/gavinloo/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
+    "/Users/gavinloo/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/cucumber.messages/6.0.1/cucumber.messages.6.0.1.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/fluentassertions/6.2.0/fluentassertions.6.2.0.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/gherkin/19.0.3/gherkin.19.0.3.nupkg.sha512",
@@ -18,6 +19,7 @@
     "/Users/gavinloo/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/microsoft.testplatform.objectmodel/17.0.0/microsoft.testplatform.objectmodel.17.0.0.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/microsoft.testplatform.testhost/17.0.0/microsoft.testplatform.testhost.17.0.0.nupkg.sha512",
+    "/Users/gavinloo/.nuget/packages/moq/4.20.69/moq.4.20.69.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
@@ -49,6 +51,7 @@
     "/Users/gavinloo/.nuget/packages/system.configuration.configurationmanager/4.5.0/system.configuration.configurationmanager.4.5.0.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/system.diagnostics.diagnosticsource/4.3.0/system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "/Users/gavinloo/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/system.diagnostics.tools/4.0.1/system.diagnostics.tools.4.0.1.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/system.diagnostics.tracing/4.3.0/system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "/Users/gavinloo/.nuget/packages/system.dynamic.runtime/4.0.11/system.dynamic.runtime.4.0.11.nupkg.sha512",

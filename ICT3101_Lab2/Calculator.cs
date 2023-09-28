@@ -91,14 +91,12 @@ namespace ICT3101_Lab2
             return mttf / mtbf;
         }
         
-        public double GenMagicNum(double input)
+        public double GenMagicNum(double input, IFileReader fileReader)
         {
             double result = 0;
             int choice = Convert.ToInt16(input);
             
-            FileReader getTheMagic = new FileReader();
-            
-            string[] magicStrings = getTheMagic.Read("MagicNumbers.txt");
+            string[] magicStrings = fileReader.Read("MagicNumbers.txt");
             if ((choice >= 0) && (choice < magicStrings.Length))
             {
                 result = Convert.ToDouble(magicStrings[choice]);
