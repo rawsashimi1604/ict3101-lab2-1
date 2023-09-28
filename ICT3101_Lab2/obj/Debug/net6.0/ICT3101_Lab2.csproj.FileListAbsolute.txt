@@ -1,0 +1,15 @@
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/bin/Debug/net6.0/ICT3101_Lab2
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/bin/Debug/net6.0/ICT3101_Lab2.deps.json
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/bin/Debug/net6.0/ICT3101_Lab2.runtimeconfig.json
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/bin/Debug/net6.0/ICT3101_Lab2.dll
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/bin/Debug/net6.0/ICT3101_Lab2.pdb
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ICT3101_Lab2.csproj.AssemblyReference.cache
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ICT3101_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ICT3101_Lab2.AssemblyInfoInputs.cache
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ICT3101_Lab2.AssemblyInfo.cs
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ICT3101_Lab2.csproj.CoreCompileInputs.cache
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ICT3101_Lab2.dll
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/refint/ICT3101_Lab2.dll
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ICT3101_Lab2.pdb
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ICT3101_Lab2.genruntimeconfig.cache
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2/obj/Debug/net6.0/ref/ICT3101_Lab2.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT3101_Lab2", "ICT3101_Lab2\ICT3101_Lab2.csproj", "{4988DA96-A8BA-4E9C-93A3-4BAE6DC0E87A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT3101_Lab2_Specflow", "ICT3101_Lab2_Specflow\ICT3101_Lab2_Specflow.csproj", "{E67D2C34-B315-4236-A4EE-3746CA92ED24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4988DA96-A8BA-4E9C-93A3-4BAE6DC0E87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4988DA96-A8BA-4E9C-93A3-4BAE6DC0E87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4988DA96-A8BA-4E9C-93A3-4BAE6DC0E87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4988DA96-A8BA-4E9C-93A3-4BAE6DC0E87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67D2C34-B315-4236-A4EE-3746CA92ED24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67D2C34-B315-4236-A4EE-3746CA92ED24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67D2C34-B315-4236-A4EE-3746CA92ED24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67D2C34-B315-4236-A4EE-3746CA92ED24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

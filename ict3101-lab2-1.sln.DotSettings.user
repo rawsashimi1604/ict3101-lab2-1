@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3f71f4f9_002D02de_002D4896_002Daba8_002D092059e19824/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddTwoNumbers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::E67D2C34-B315-4236-A4EE-3746CA92ED24::net6.0::ICT3101_Lab2_Specflow.Features.UsingCalculatorAdditionFeature.AddTwoNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E67D2C34-B315-4236-A4EE-3746CA92ED24::net6.0::ICT3101_Lab2_Specflow.Features.UsingCalculatorAdditionFeature.AddZerosForSpecialCases&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E67D2C34-B315-4236-A4EE-3746CA92ED24::net6.0::ICT3101_Lab2_Specflow.Features.UsingCalculatorDivisionFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fc08bbb0_002D8373_002D4cd8_002Dad04_002D5936a4ce5c8c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;ict3101-lab2-1-test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::E67D2C34-B315-4236-A4EE-3746CA92ED24::net6.0::ICT3101_Lab2_Specflow.Features.UsingCalculatorAdditionFeature.AddTwoNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E67D2C34-B315-4236-A4EE-3746CA92ED24::net6.0::ICT3101_Lab2_Specflow.Features.UsingCalculatorAdditionFeature.AddZerosForSpecialCases&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E67D2C34-B315-4236-A4EE-3746CA92ED24::net6.0::ICT3101_Lab2_Specflow.Features.UsingCalculatorDivisionFeature&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E67D2C34-B315-4236-A4EE-3746CA92ED24::net6.0::ICT3101_Lab2_Specflow.Features.UsingCalculatorAvailabilityFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
