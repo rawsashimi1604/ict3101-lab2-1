@@ -34,5 +34,4 @@ jobs:
         run: ls -al
 
       - name: Run unit tests for lab
-        working-directory: ICT3101_Lab2_Specflow
-        run: dotnet test --no-build --verbosity normal
+        run: dotnet test ICT3101_Lab2_Specflow/ICT3101_Lab2_Specflow.csproj --no-build --verbosity normal
