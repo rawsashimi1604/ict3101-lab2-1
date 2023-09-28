@@ -90,6 +90,23 @@ namespace ICT3101_Lab2
         {
             return mttf / mtbf;
         }
+        
+        public double GenMagicNum(double input)
+        {
+            double result = 0;
+            int choice = Convert.ToInt16(input);
+            
+            FileReader getTheMagic = new FileReader();
+            
+            string[] magicStrings = getTheMagic.Read("MagicNumbers.txt");
+            if ((choice >= 0) && (choice < magicStrings.Length))
+            {
+                result = Convert.ToDouble(magicStrings[choice]);
+            }
+            result = (result > 0) ? (2 * result) : (-2 * result);
+            return result;
+        }
+        
     }
 }
 

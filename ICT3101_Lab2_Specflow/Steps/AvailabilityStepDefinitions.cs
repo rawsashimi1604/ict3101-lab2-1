@@ -43,5 +43,6 @@ public sealed class AvailabilityStepDefinitions
         Assert.AreEqual(3.0, _result);
     }
 
-    
+
+   
 }

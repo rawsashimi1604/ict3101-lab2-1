@@ -117,3 +117,4 @@
 /Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2_Specflow/obj/Debug/net6.0/ICT3101_Lab2_Specflow.pdb
 /Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2_Specflow/obj/Debug/net6.0/ICT3101_Lab2_Specflow.genruntimeconfig.cache
 /Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2_Specflow/obj/Debug/net6.0/ref/ICT3101_Lab2_Specflow.dll
+/Users/gavinloo/code/university/ict3101-lab2-1/ICT3101_Lab2_Specflow/bin/Debug/net6.0/MagicNumbers.txt
