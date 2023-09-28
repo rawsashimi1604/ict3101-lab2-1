@@ -33,5 +33,11 @@ jobs:
       - name: Check file dir
         run: ls -al
 
+      - name: Install dependencies
+        run: dotnet restore ict3101-lab2-1.sln
+
+      - name: Build
+        run: dotnet build ict3101-lab2-1.sln --configuration Release --no-restore
+
       - name: Run unit tests for lab
         run: dotnet test ict3101-lab2-1.sln --no-build --verbosity normal
